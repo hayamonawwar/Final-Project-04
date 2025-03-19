@@ -1,4 +1,4 @@
-# Final-Project-X
+# Final-Project-04
 
 ## Project Overview
 This repository contains the final project for our deep learning course. The project, **AI-Powered Handwritten Formula Recognition**, aims to compare the performance of **TrOCR (Transformer-based OCR)** and **CRNN (Convolutional Recurrent Neural Network)** for recognizing handwritten engineering formulas. The team members of this project are: Haya Monawwar and Sungjoo Chung, supervised by Dr. Marting Hagan.
