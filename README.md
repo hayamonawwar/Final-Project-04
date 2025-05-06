@@ -27,7 +27,7 @@ Final-Project-X/
 │   │   ├── Individual-Final-Project-Report.pdf
 │       ├── Code/
 ```
-## Running the CRNN_HMER.ipynb file
+## Training the Model
 To run this HMER model, save the files in the folder 'Code' in one location. Extract the files from 'data.zip'. Since the training, testing, and validation folders are pre-made within the 'data' folder, simply executing the cells in the CRNN_HMER.ipynb file in order will run the code and train the model successfully. The code in the pre-processing file is just for reference and to detail the pre-processing steps that were used. This file can be run by using the terminal and entering the command 'python preprocessing.py'. 
 
 The separate code files in our individual folders only focus on our individual contributions to the final code, which is compiled accurately in CRNN_HMER.ipynb file. As such, these individual code files need not be run individually.
