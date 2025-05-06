@@ -21,7 +21,8 @@ Final-Project-X/
 │   ├── CRNN_HMER.ipynb # Final code/model 
 │   ├── data.zip
 │   ├── preprocessing.py
-│   ├── README.md  
+│   ├── README.md
+│
 │-- firstname-lastname-individual-project/
 │       ├── Individual-Final-Project-Report.pdf
 │       ├── Code
