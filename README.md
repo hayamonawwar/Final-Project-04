@@ -15,19 +15,16 @@ Final-Project-X/
 │   ├── group_report.pdf
 │
 │-- Final Presentation/
-│   ├── presentation.pdf
+│   ├── Final Presentation.pdf
 │
 │-- Code/
-│   ├── train_trocr.py
-│   ├── train_crnn.py
-│   ├── preprocess_data.py
-│   ├── evaluate_models.py
-│   ├── requirements.txt
+│   ├── CRNN_HMER.ipynb
+│   ├── data.zip
+│   ├── preprocessing.py
 │   ├── README.md  # This file
 │
 │-- firstname-lastname-individual-project/
 │   ├── Individual-Final-Project-Report/
-│   │   ├── individual_report.pdf
-│   ├── Code/
-│   │   ├── my_contributions.py
+│   │   ├── Individual-Final-Project-Report.pdf
+│       ├── Code/
 ```
