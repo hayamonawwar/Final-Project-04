@@ -1,0 +1,1 @@
+Sungjoo's code (CRNN_HMER.ipynb) runs on its own with the CROHME2019 dataset zipped in data.zip. The required packages and its versions can be found in requirements.txt under the directory sungjoo-chung-individual-project.
