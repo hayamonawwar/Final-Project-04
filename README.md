@@ -7,23 +7,23 @@ This repository contains the final project for our deep learning course. The pro
 The repository follows the required structure:
 
 ```
-Final-Project-X/
-│-- Proposal/
+Final-Project-04
+│-- Proposal
 │   ├── project_proposal.pdf
 │
-│-- Final-Group-Project-Report/
+│-- Final-Group-Project-Report
 │   ├── group_report.pdf
 │
-│-- Final Presentation/
+│-- Final Presentation
 │   ├── Final Presentation.pdf
 │
-│-- Code/
+│-- Code
 │   ├── CRNN_HMER.ipynb # Final code/model 
 │   ├── data.zip
 │   ├── preprocessing.py
 │   ├── README.md
 │
-│-- firstname-lastname-individual-project/
+│-- firstname-lastname-individual-project
 │       ├── Individual-Final-Project-Report.pdf
 │       ├── Code
 ```
